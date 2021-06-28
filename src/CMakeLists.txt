@@ -1,0 +1,4 @@
+#ADD_SUBDIRECTORY(utils)
+#ADD_SUBDIRECTORY(vad)
+#ADD_SUBDIRECTORY(decoder)
+# Proto file
